@@ -1,1 +1,2 @@
-# tkh_career_analysis
+DATA ANALYSIS OF THE H & P GROUP
+You are the inaugural data analytics team for a new startup called The Inside Track. To compete with other longstanding sites such as Glassdoor.com, your organization goes beyond simply relying on feedbacl from employees. Your team does a deep analysis of the HR data of each company to provide behind the scenes information to potential employees. When candidates visit insidetrack.com, they will be able to get actual metrics and visualizations that will help them determine if the company is a right fit.
