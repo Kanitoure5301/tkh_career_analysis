@@ -22,17 +22,21 @@ This analysis explores key factors influencing employee performance, and product
 ### How do DaysLateLast30 correlate with PerformanceScore?
 
 # SALARY ANALYSIS BY TALGAT
+
 This analysis previews questions about how performance scores, gender, and marital status relate to salaries. It looks at whether higher performance leads to higher pay, if there are salary gaps between men and women, why women might earn less even with similar or better performance, and whether bias could affect pay or performance reviews. It also considers if marital status has an impact on average salary.
 
 Do people with higher performance scores usually get higher salaries?
+
 Why do top performers tend to earn more than those with lower scores?
+
 Why might women be earning less than men, even if they have similar jobs or performance?
+
 Are there women who work just as hard or harder than men but still get paid less?
-The data shows that women have a slightly higher average perfomance score (3.01) compared to men (2.94), yet men have higher average and median salaries. This suggests that women can perform as well as or better than men but still receive less pay. 
+
 Is there a difference in performance scores between men and women?
-There is a small difference. Women have a slightly higher average perfomance score (3.01) than men (2.94)
+
 If men have lower performance scores but higher salaries, what could explain that?
-Are performance reviews fair, or could there be bias based on gender?
+
 
 # Employee Attendance Analysis by Kani
 
