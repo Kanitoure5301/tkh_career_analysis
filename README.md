@@ -22,37 +22,17 @@ This analysis explores key factors influencing employee performance, and product
 ### How do DaysLateLast30 correlate with PerformanceScore?
 
 # SALARY ANALYSIS BY TALGAT
+This analysis previews questions about how performance scores, gender, and marital status relate to salaries. It looks at whether higher performance leads to higher pay, if there are salary gaps between men and women, why women might earn less even with similar or better performance, and whether bias could affect pay or performance reviews. It also considers if marital status has an impact on average salary.
 
-### Do people with higher performance scores usually get higher salaries?
-
-Yes, people with higher perfomance scores tend to get higher salaries. The bar chart shows a clear upward trend: as the perfomance scroe increases from 1 to 4, the average salary also increases, withe highest perfomance score group earning the most on average.
-
-### Why do top performers tend to earn more than those with lower scores?
-
-Tope performers tend to earn more because higher perfomance is often rewarded with raises, bonuses or promotions. Companies typically use perfomance evaluations to determine salary adjustments, so employees with higher scores are recognized and compensated accordigly.
-
-### Is there a pay gap between men and women in this company?
-Yes, there is a pay. Men have a higher salary than wome. The median salary data also confirms this: the median salary for men is $63353, while for women it is 62066.50
-
-### Why might women be earning less than men, even if they have similar jobs or performance?
-Historical pay disparities that persist over time
-Difference in negotiations outcomes
-Potential bias in decisions or promotion opportunties
-Job departments or roles with higher pay being manle-dominated
-
-### Are there women who work just as hard or harder than men but still get paid less?
+Do people with higher performance scores usually get higher salaries?
+Why do top performers tend to earn more than those with lower scores?
+Why might women be earning less than men, even if they have similar jobs or performance?
+Are there women who work just as hard or harder than men but still get paid less?
 The data shows that women have a slightly higher average perfomance score (3.01) compared to men (2.94), yet men have higher average and median salaries. This suggests that women can perform as well as or better than men but still receive less pay. 
-
-### Is there a difference in performance scores between men and women?
+Is there a difference in performance scores between men and women?
 There is a small difference. Women have a slightly higher average perfomance score (3.01) than men (2.94)
-
-### If men have lower performance scores but higher salaries, what could explain that?
-In the past, men have been paid more, and those differences have not been fixed.
-Men might be in more senior or higher-paying jobs, even if their perfomance scores are lower.
-Negotiations: Men may negotiate higher starting salaries or raises more than women.
-
-### Are performance reviews fair, or could there be bias based on gender?
-Woman in this company work as hard or harder than men but still get paid less, indicating that there may be bias in pay or promotion practices, not just differences in perfomance.
+If men have lower performance scores but higher salaries, what could explain that?
+Are performance reviews fair, or could there be bias based on gender?
 
 # Employee Attendance Analysis by Kani
 
